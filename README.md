@@ -1,6 +1,7 @@
-# fractal
+# turtle-fractal
 ## Description of project
-This program draws a Hilbert curve using the python turtle.
+This program draws a Hilbert curve using the python turtle.<br />
+https://en.wikipedia.org/wiki/Hilbert_curve
 
 ## Installation & Launch 
 ### Clone this Repository
